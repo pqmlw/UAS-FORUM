@@ -3,9 +3,4 @@
 echo ("Hello");
 echo("Bye");
 
-
-
-
-
-
 ?>
