@@ -7,3 +7,5 @@ echo("halo 2");
 echo("airinnn");
 echo("Tatsumi ganteng");
 echo("pawpaww");
+echo("nico");
+
